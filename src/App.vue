@@ -397,7 +397,7 @@ const paintings = [
   {
     id: 66,
     image: 'img/66.webp',
-    title: 'Le Tres de Mayo',
+    title: 'Tres de mayo',
     artist: 'Francisco de Goya'
   },
   {
